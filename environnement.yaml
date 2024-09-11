@@ -1,4 +1,0 @@
-name: bulkEnv
-channels:
-  - defaults
-prefix: /home/jeremy/miniconda3/envs/bulkEnv
