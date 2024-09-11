@@ -1,0 +1,17 @@
+name: bulkEnv
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - rust
+  - pip:
+      - pydeseq2
+      - gseapy
+      - customtkinter
+      - Upsetplot
+      - lxml
+      - pandas
+      - scanpy
+
+
